@@ -5,7 +5,7 @@ public class UserDetails {
 	private String Name;
 	private String Email;
 	private String password;
-	private String MObileno;
+	private String Mobileno;
 	public Integer getId() {
 		return id;
 	}
