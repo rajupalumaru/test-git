@@ -1,8 +1,7 @@
 
 public class GitHubController {
 	public static void main(String[] args) {
-		System.out.println("hai iam github controller");
-		System.out.println("Helo");
+System.out.println("Hi folks This Ur RJ Venkatasai");
 	}
 
 }
