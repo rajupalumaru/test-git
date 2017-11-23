@@ -3,7 +3,7 @@ package com.pojo;
 public class Passport {
 	private int p_id;
 	private String name;
-	private String city;
+	private static String city;
 	private int expired_date;
 	
 	public int getP_id() {
@@ -30,7 +30,10 @@ public class Passport {
 	public void setExpired_date(int expired_date) {
 		this.expired_date = expired_date;
 	}
-	
+	public static String Sai() {
+		return city;
+		
+	}
 
 
 }
